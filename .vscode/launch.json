@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CmdexampleApplication<cmdexample>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cmdexample.cmdexample.CmdexampleApplication",
+            "projectName": "cmdexample",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

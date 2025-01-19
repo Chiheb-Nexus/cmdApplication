@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: cmdexample
+
+app:
+    booksXmlPath: "data/books.xml"
